@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "TILT",
+  "base_artist": "Red Velvet - IRENE & SEULGI",
+  "createdAt": "2025-12-07T09:10:51.995898Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flesh (Tilt mix)",
+      "artist": "Jan Johnston",
+      "has_synced": false,
+      "path": "select/01_Flesh_(Tilt_mix)_Jan_Johnston.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tilt-A-Whirl",
+      "artist": "Masters of Reality",
+      "has_synced": false,
+      "path": "select/02_Tilt-A-Whirl_Masters_of_Reality.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Full Tilt",
+      "artist": "The Cult",
+      "has_synced": true,
+      "path": "select/03_Full_Tilt_The_Cult.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tilt Ya Head Back",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/04_Tilt_Ya_Head_Back_Nelly.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tilt Ya Head Back (Album Version / Explicit)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/05_Tilt_Ya_Head_Back_(Album_Version___Explicit)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tilt-A-Whirl",
+      "artist": "Insane Clown Posse",
+      "has_synced": true,
+      "path": "select/06_Tilt-A-Whirl_Insane_Clown_Posse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tilt",
+      "artist": "Hands Like Houses",
+      "has_synced": true,
+      "path": "select/07_Tilt_Hands_Like_Houses.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tilt Billings and the Student Prince",
+      "artist": "Leo Kottke",
+      "has_synced": false,
+      "path": "select/08_Tilt_Billings_and_the_Student_Prince_Leo_Kottke.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tilt",
+      "artist": "Joe Jackson",
+      "has_synced": false,
+      "path": "select/09_Tilt_Joe_Jackson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tilt Ya Head Back",
+      "artist": "Christina Aguilera & Nelly",
+      "has_synced": false,
+      "path": "select/10_Tilt_Ya_Head_Back_Christina_Aguilera_&_Nelly.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tilt Ya Head Back",
+      "artist": "Nelly & Christina Aguilera",
+      "has_synced": false,
+      "path": "select/11_Tilt_Ya_Head_Back_Nelly_&_Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tilt Mode (feat. Gibbz)",
+      "artist": "Exmag",
+      "has_synced": true,
+      "path": "select/12_Tilt_Mode_(feat._Gibbz)_Exmag.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tilt Mode",
+      "artist": "Exmag/Gibbz",
+      "has_synced": true,
+      "path": "select/13_Tilt_Mode_Exmag_Gibbz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tilt at Windmills",
+      "artist": "Dark Moor",
+      "has_synced": true,
+      "path": "select/14_Tilt_at_Windmills_Dark_Moor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TILT",
+      "artist": "Red Velvet - IRENE & SEULGI",
+      "has_synced": false,
+      "path": "select/pl_01_TILT_Red_Velvet_-_IRENE_&_SEULGI.txt"
+    }
+  ]
+}
